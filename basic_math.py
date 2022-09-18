@@ -14,6 +14,7 @@ def main():
     print(2 / 4.3)
     print(math.pow(4, 2))
     print(math.sqrt(16))
+    print("{:.0%}".format(0.878))
 
 
 if __name__ == "__main__":
